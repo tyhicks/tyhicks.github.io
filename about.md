@@ -1,87 +1,27 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hello! My name is Tyler Hicks and I live in Dallas, TX. I've been involved with
+Linux security since 2007 and am currently the Ubuntu Security Technical Lead.
+My day-to-day duties include
+[AppArmor](http://wiki.apparmor.net/index.php/Main_Page) development,
+[eCryptfs](ecryptfs.org) maintainer, and producing
+[features](https://wiki.ubuntu.com/Security/Features) and
+[security updates](https://usn.ubuntu.com) for the
+[Ubuntu](https://www.ubuntu.com/) Linux distribution.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+When I'm not trying to improve the security of Ubuntu systems, I try to keep
+myself busy with hobbies. That includes attempting to woodwork, turning
+wrenches on vintage cars, home improvement projects, and travel.
 
-Thanks to the following:
+You can learn more about me, contact me, and even take a look at what I've been
+working on by following these links:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
-
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+- [Twitter](https://twitter.com/tyhicks)
+- [LinkedIn](https://linkedin.com/in/tyhicks)
+- [GitHub](https://github.com/tyhicks)
+- [Launchpad](https://launchpad.net/~tyhicks)
