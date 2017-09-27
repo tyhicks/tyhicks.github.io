@@ -7,8 +7,7 @@ tags:   linux security ubuntu lss
 
 This post summarizes day two of the
 [2017 Linux Security Summit](http://events.linuxfoundation.org/events/linux-security-summit)
-(LSS). A post describing the first day can be found
-[here](https://tyhicks.com/2017/09/22/2017-Linux-Security-Summit-Day-1/).
+(LSS). A post describing the first day can be found [here]({{ site.baseurl }}{% post_url 2017-09-22-2017-Linux-Security-Summit-Day-1 %}).
 
 * TOC
 {:toc}

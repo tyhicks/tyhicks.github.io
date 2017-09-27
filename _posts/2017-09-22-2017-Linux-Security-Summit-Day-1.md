@@ -13,7 +13,7 @@ security in Linux.
 
 I took notes throughout the event and, in some cases, John Johansen pitched in
 and filled in the holes in my notes. This post summarizes the first day of the
-conference. Watch for a followup post containing notes from day two.
+conference. Be sure to check out the [day two notes]({{ site.baseurl }}{% post_url 2017-09-22-2017-Linux-Security-Summit-Day-2 %}), as well.
 
 I tried to capture as much technical detail as possible. If you want a more
 concise summary of the sessions, have a look at Paul Moore's
