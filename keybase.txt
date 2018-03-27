@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/tyhicks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tyhicks.com
+  * I am tyhicks (https://keybase.io/tyhicks) on keybase.
+  * I have a public key with fingerprint 3E05 3E70 DE40 B13A DE91  3E7E D692 003D AA02 C70A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010128e6024c3f65afba1c0f167fe07d0915adbfbe854248c645073bb2e5ff7f7d3b0a",
+      "fingerprint": "3e053e70de40b13ade913e7ed692003daa02c70a",
+      "host": "keybase.io",
+      "key_id": "d692003daa02c70a",
+      "kid": "010128e6024c3f65afba1c0f167fe07d0915adbfbe854248c645073bb2e5ff7f7d3b0a",
+      "uid": "9fd46f5bafd8daca48378a62e9204d19",
+      "username": "tyhicks"
+    },
+    "service": {
+      "hostname": "tyhicks.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1522191334,
+  "expire_in": 157680000,
+  "prev": "fcf08a0d791de77fbe15087d4f98e6c0ea4542312bc674a4527a81c83342e76e",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXpCP2BFjTEMpc7gUMwos9/veXT4mEqMfRcxgGoZs9+NcuIG7y713
+V1fYcpyyNraAAgYK0MgiMbFmmoyEgmoClygWxDQGNI0cm5AyKOSzc5n80Uw/O3/O
+vO95nud93mdOVeQqgzHo/GuGtLbgXmNQ/3XesPvT/rkyhLeLbsRShhSDlQuUiEDV
+rMWyiFgQFEMxnAU0ipMCIdEUJ/EcJqASRjMSQBkRNWMUJ/ISD1iKxElWoEkKZQie
+xwElSYzEiASPckgiIsm2QqA4FNmmQVkCoBQBGFQEJMpjBCcCMwZrINJmHEUJkeNQ
+XGBWiEV2VWdAczynApNshz1YWFfs/Qf+f/btXJEzSyJJSxTPSSIrcgJHsgTDcjQO
+4HhSxMw6UAWKjdsLIFpzF8lCsYp4EhHYdMkC0HPVF/k3wCTY90KmQ7FrdsFeAh+K
+NM2hWnSi5nboyH2At/6jYeVlmwhThAwXUFTZbkMsGEQKmqyLYhSOYzBFgkxEwH6H
+rACrrCMohmZRePQ5wAUlJUFCWQ4VmZ1mTAQMAzPAKJRlRFIyw8QEFHAkzITAcF6g
+GRIWOMOxmMBCaRwwNED0tUptdsTCQJ9cIdRU5UIbpzkVgHiM3mAixBBkNGy6OzYk
+PTTdMf7gh5bx6vRnb/+80GD92xmMEVG3O8c8dy5nFURvDWSadkw/dejKcN2QK/PC
+JbrxssfFvH6mUlX2SKFLXw1MRjQ3TcyFZv956Fz2Yu5Zbz3ZW3dVTeA1esASMBXG
+jde7tj42en/7KlHK70ot8Ic7f18q9593lvpLp5I2/vr9rQPZNatzeuYdp56XAvsD
+J3at/WuB8ckFN7svhZpqfO09eb68er8acwKrbX36vqoW9Y4039SeimuRRRu8JSXv
+bTs83XVrOL78pfC35z/pb+j97eJ2/0fhKRXexbOThF8ZcGoPRL6fvAZsa4450/pk
+dM6Wd58Z2jyW+ENsk7Hpc++OmdH4ETVv7Gr6Q/cGuctyvLltN5CHP1sXMWLMmk1Y
+G9wYVGXNTG+bwG6kLZZqsfN9tsG+1LDek48e7bySX7HoaXcu1I+BN7mEd/J2Dq2L
+Dmt4q7G6rf/4wa/PXWDMmzyzC+1Lqw+0fvPCTcPL92zecHq0vmVmevdzE1F+6mBi
+S2/GK63XBwPL5ZexpGO1E1WPyyfXNy/WvDgjNXIbu36K++ANU1hUSLg6e7r/284h
+85eFgZ7cuX0jX9yVm3Vkwg5U31LOoGtqssO/pq7y8LIPCz/FpZb9jCu0W/njlzhk
+Jq6069W+jqQM8hHGPR1fWZzWPZzdYH5ilyE/s6WjtuV49cUj1wwxP26pG5otz2KS
+P85PiUoxbp9f/x06fzQ5o7O7nP0b
+=rrqR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tyhicks
+
+==================================================================
