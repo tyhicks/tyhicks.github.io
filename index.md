@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Me](/images/me.jpeg)
+
 Hello! My name is Tyler Hicks and I live in Dallas, TX. I've been involved with
 the Linux kernel and Linux security since 2007. I am currently working at
 Microsoft's Linux Systems Group while maintaining the Microsoft Linux kernel
