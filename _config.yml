@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://tyhicks.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - blog/index.html
  - contact.html
 
 # Google services
@@ -120,6 +120,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     4
+paginate_path: "blog/page:num/"
 sass:
   style: compressed
 plugins:

@@ -1,8 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
-tags: about
+layout: default
 ---
 
 Hello! My name is Tyler Hicks and I live in Dallas, TX. I've been involved with
