@@ -6,22 +6,27 @@ tags: about
 ---
 
 Hello! My name is Tyler Hicks and I live in Dallas, TX. I've been involved with
-Linux security since 2007 and am currently the Ubuntu Security Technical Lead.
-My day-to-day duties include
-[AppArmor](http://wiki.apparmor.net/index.php/Main_Page) development,
-[eCryptfs](ecryptfs.org) maintainer, and producing
-[features](https://wiki.ubuntu.com/Security/Features) and
-[security updates](https://usn.ubuntu.com) for the
-[Ubuntu](https://www.ubuntu.com/) Linux distribution.
+the Linux kernel and Linux security since 2007. I am currently working at
+Microsoft's Linux Systems Group while maintaining the Microsoft Linux kernel
+for various products. Past roles include time at Canonical performing security
+response and proactive hardening on the Ubuntu Kernel Team and leading the
+Ubuntu Security Team. Before Canonical, I was part of the Security Team at
+IBM's Linux Technology Center.
 
-When I'm not trying to improve the security of Ubuntu systems, I try to keep
-myself busy with hobbies. That includes attempting to woodwork, turning
-wrenches on vintage cars, home improvement projects, and travel.
+Some of my day-to-day duties include:
+- [Windows Subsytem for Linux 2 (WSL2) kernel](https://github.com/microsoft/WSL2-Linux-Kernel) maintainer
+- [AppArmor](https://apparmor.net/) development
+- [Ubuntu](https://www.ubuntu.com/) Core Dev
+- [eCryptfs](ecryptfs.org) kernel maintainer
+
+I try to keep myself busy with hobbies in personal time. They include
+attempting to woodwork, turning wrenches on vintage cars, home improvement
+projects, and travel.
 
 You can learn more about me, contact me, and even take a look at what I've been
 working on by following these links:
 
-- [Twitter](https://twitter.com/tyhicks)
 - [LinkedIn](https://linkedin.com/in/tyhicks)
+- [Twitter](https://twitter.com/tyhicks)
 - [GitHub](https://github.com/tyhicks)
-- [Launchpad](https://launchpad.net/~tyhicks)
+- [GitLab](https://gitlab.com/tyhicks)
