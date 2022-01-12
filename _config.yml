@@ -2,7 +2,7 @@
 title:       Tyler Hicks
 email:       code@tyhicks.com
 author:      Tyler Hicks
-description: "A personal site, by Tyler Hicks, about Linux security."
+description: "A site, by Tyler Hicks, about Linux kernel and security topics."
 baseurl:     ""
 url:         "https://tyhicks.com"
 date_format: "%b %-d, %Y"
