@@ -5,6 +5,7 @@ author:      Tyler Hicks
 description: "A site, by Tyler Hicks, about Linux kernel and security topics."
 baseurl:     ""
 url:         "https://tyhicks.com"
+contact_endpoint: "https://formspree.io/f/mwkyvejd"
 date_format: "%b %-d, %Y"
 header_pages:
  - blog/index.html

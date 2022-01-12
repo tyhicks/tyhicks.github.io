@@ -26,7 +26,7 @@ You'd be best off contacting me via <a href="https://twitter.com/tyhicks">Twitte
       <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit }}</button>
     </form>
   {% else %}
-    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+    <form action="{{ site.contact_endpoint }}" method="POST" class="form-stacked">
       <label>
         Email
         <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
